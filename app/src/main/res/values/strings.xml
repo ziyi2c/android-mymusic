@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">氢音乐</string>
+    <string name="title_discover">发现</string>
+    <string name="title_user">我的</string>
+    <string name="title_notifications">通知</string>
+    <string name="title_activity_login">Login</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="hint_username">请输入用户名</string>
+    <string name="hint_password">请输入密码</string>
+    <string name="hint_password2">请再次输入密码</string>
+    <string name="hint_email">请输入邮箱</string>
+    <string name="hint_phone">请输入手机号</string>
+    <string name="hint_birthday">生日</string>
+    <string name="regTitle">欢迎注册氢音乐</string>
+    <string name="options_man">男</string>
+    <string name="options_woman">女</string>
+    <string name="reg_gender">性别</string>
+    <string name="radio_gender_info">性别</string>
+    <string name="reg_checkbox_info">爱好</string>
+    <string name="prefer_check_1">乡村</string>
+    <string name="prefer_check_2">民谣</string>
+    <string name="prefer_check_3">轻音乐</string>
+    <string name="prefer_check_4">DJ</string>
+    <string name="prefer_check_5">流行</string>
+    <string name="reg_submit">注册</string>
+    <string name="hint_prefers">点击选择</string>
+</resources>
