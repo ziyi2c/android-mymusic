@@ -32,4 +32,6 @@
     <string name="prefer_check_5">流行</string>
     <string name="reg_submit">注册</string>
     <string name="hint_prefers">点击选择</string>
+    <string name="btnSearch">搜索</string>
+    <string name="hintSearch">九三</string>
 </resources>
